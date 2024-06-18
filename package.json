@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "description": "",
   "scripts": {
-    "example": "pnpm --filter example"
+    "example": "pnpm --filter example",
+    "ci:publish": "pnpm publish -r"
   },
   "keywords": [],
   "author": "",
