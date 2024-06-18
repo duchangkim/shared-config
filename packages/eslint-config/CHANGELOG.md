@@ -1,5 +1,11 @@
 # @duchi/eslint-config
 
+## 1.0.7
+
+### Patch Changes
+
+- ca34d1f: Write readme
+
 ## 1.0.6
 
 ### Patch Changes
