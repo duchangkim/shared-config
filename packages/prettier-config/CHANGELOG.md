@@ -1,5 +1,11 @@
 # @duchi/prettier-config
 
+## 1.0.5
+
+### Patch Changes
+
+- 24c7e2a: Update version
+
 ## 1.0.3
 
 ### Patch Changes
