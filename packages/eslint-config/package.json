@@ -1,6 +1,11 @@
 {
   "name": "@duchi/eslint-config",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "patch.js",
+    "mixins/react.js"
+  ],
   "version": "1.0.0",
   "dependencies": {
     "@rushstack/eslint-config": "3.6.8",
