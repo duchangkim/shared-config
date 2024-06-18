@@ -6,7 +6,7 @@
     "patch.js",
     "mixins/react.js"
   ],
-  "version": "1.0.2",
+  "version": "1.0.3",
   "dependencies": {
     "@rushstack/eslint-config": "3.6.8",
     "@rushstack/eslint-patch": "1.10.1",
