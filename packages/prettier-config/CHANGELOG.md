@@ -1,5 +1,11 @@
 # @duchi/prettier-config
 
+## 1.0.6
+
+### Patch Changes
+
+- 17f3754: Test ci
+
 ## 1.0.5
 
 ### Patch Changes
