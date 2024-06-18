@@ -4,7 +4,7 @@
   "scripts": {
     "example": "pnpm --filter example",
     "ci:version": "pnpm changeset version",
-    "ci:publish": "pnpm publish -r --access public"
+    "ci:publish": "pnpm publish -r --access public --no-git-checks"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.5"
