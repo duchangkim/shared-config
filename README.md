@@ -6,4 +6,8 @@
 
 # 설치 및 사용 방법
 
-🚧 project is in progress! 🚧
+## eslint-config
+https://www.npmjs.com/package/@duchi/eslint-config
+
+## prettier-config
+https://www.npmjs.com/package/@duchi/prettier-config
