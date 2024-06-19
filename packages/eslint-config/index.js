@@ -10,12 +10,16 @@ module.exports = {
     // 필요한 커스텀 규칙을 여기에 정의합니다.
     "@typescript-eslint/explicit-function-return-type": "off",
 
+    /**
+     * sort-imports는 각 선언문 내의 멤버 순서만 관리
+     * import/order는 import 선언문 간의 순서를 관리
+     */
     // import https://eslint.org/docs/latest/rules/sort-imports
     "sort-imports": [
       "error",
       {
         ignoreCase: false,
-        ignoreDeclarationSort: false,
+        ignoreDeclarationSort: true,
         ignoreMemberSort: false,
         memberSyntaxSortOrder: ["all", "multiple", "single", "none"],
         allowSeparatedGroups: false,
