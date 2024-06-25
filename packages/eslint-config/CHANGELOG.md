@@ -1,5 +1,12 @@
 # @duchi/eslint-config
 
+## 1.0.10
+
+### Patch Changes
+
+- e80a1e5: Change version
+- 79c2496: Update version
+
 ## 1.0.9
 
 ### Patch Changes
