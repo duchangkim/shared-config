@@ -1,5 +1,11 @@
 # @duchi/prettier-config
 
+## 1.0.10
+
+### Patch Changes
+
+- e006a71: Fix readme.md
+
 ## 1.0.9
 
 ### Patch Changes
