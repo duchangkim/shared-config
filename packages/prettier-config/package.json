@@ -5,7 +5,7 @@
     "index.js",
     "with-tailwind.js"
   ],
-  "version": "1.0.9",
+  "version": "1.0.10",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
