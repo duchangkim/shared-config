@@ -1,5 +1,11 @@
 # @duchi/prettier-config
 
+## 1.0.9
+
+### Patch Changes
+
+- b341448: Publish test
+
 ## 1.0.8
 
 ### Patch Changes
